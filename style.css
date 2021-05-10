@@ -19,5 +19,10 @@ header a{
 .link-nav{
     text-decoration: none;
     font-size: 28px;
-    color: green;
+    color: lightseagreen;
+    border: 1px solid navy;
+    background-color: navy;
+    border-radius: 20px;
+    padding: 3px 3px 3px 3px;
+    margin: 10px 3px 3px 3px;
 }
